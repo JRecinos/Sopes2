@@ -1,0 +1,1 @@
+cmd_/home/jorge/Escritorio/P1/Modulos/ModuloMemoria/mem_201314631.mod := { echo  /home/jorge/Escritorio/P1/Modulos/ModuloMemoria/mem_201314631.o; echo; } > /home/jorge/Escritorio/P1/Modulos/ModuloMemoria/mem_201314631.mod

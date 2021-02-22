@@ -1,0 +1,1 @@
+cmd_/home/jorge/Escritorio/P1/Modulos/ModuloMemoria/mem_201314631.ko := ld -r -m elf_x86_64  -z max-page-size=0x200000  --build-id  -T ./scripts/module-common.lds -o /home/jorge/Escritorio/P1/Modulos/ModuloMemoria/mem_201314631.ko /home/jorge/Escritorio/P1/Modulos/ModuloMemoria/mem_201314631.o /home/jorge/Escritorio/P1/Modulos/ModuloMemoria/mem_201314631.mod.o;  true

@@ -1,0 +1,2 @@
+/home/jorge/Escritorio/P1/Modulos/ModuloMemoria/mem_201314631.o
+
