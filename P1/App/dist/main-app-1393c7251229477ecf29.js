@@ -5484,7 +5484,7 @@ let MainApp = class MainApp extends _base_element__WEBPACK_IMPORTED_MODULE_0__["
     this.url = '';
     this._modalMsn = '';
     window.history.replaceState(null, 'Home', '/');
-    this.url =  true ? `http://34.75.28.222:4000/` : undefined;
+    this.url =  true ? `http://34.73.197.10:4000/` : undefined;
     window.url = this.url; // we create a link to api socket
 
     /*this.apiSocket = new Socket((isConnected: boolean)=>alert(isConnected), (message:string)=>alert(message));
