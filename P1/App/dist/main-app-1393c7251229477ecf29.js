@@ -5473,7 +5473,7 @@ let MainApp = class MainApp extends _base_element__WEBPACK_IMPORTED_MODULE_0__["
     this.showsnackbar = false;
     this.snackbarMessage = '';
     this.user = {};
-    this.appTitle = "Proyecto 1 Sopes 1";
+    this.appTitle = "Sopes 2 Grupo 12";
     this.loading = true;
     this.page = "home";
     this.lastPage = "";
@@ -5484,7 +5484,7 @@ let MainApp = class MainApp extends _base_element__WEBPACK_IMPORTED_MODULE_0__["
     this.url = '';
     this._modalMsn = '';
     window.history.replaceState(null, 'Home', '/');
-    this.url =  true ? `http://localhost:4000/` : undefined;
+    this.url =  true ? `http://34.75.28.222/:4000/` : undefined;
     window.url = this.url; // we create a link to api socket
 
     /*this.apiSocket = new Socket((isConnected: boolean)=>alert(isConnected), (message:string)=>alert(message));
